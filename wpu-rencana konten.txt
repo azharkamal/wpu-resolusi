@@ -2,6 +2,8 @@ rencana konten wpu
 -java schript
  * Es6
  * framework javaschirpt
- 
--php framwork
+   - angular 
+   - react
+ -php framwork
+     -laravel
 -interviewe
